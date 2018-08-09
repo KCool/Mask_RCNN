@@ -56,3 +56,10 @@ pip-delete-this-directory.txt
 .venv
 venv/
 ENV/
+custom_images/.DS_Store
+custom_images/folder 1/.DS_Store
+custom_images/folder 1/Western_Gull_0022_54607.jpg
+*.jpg
+*.jpeg
+*.png
+custom_images/folder 2/.DS_Store
